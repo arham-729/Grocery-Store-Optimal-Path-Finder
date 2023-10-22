@@ -1,5 +1,6 @@
 # Grocery-Store-Optimal-Path-Finder
-Your smart shopping companion for finding the optimal path in the grocery store. Save time and energy with efficient navigation, organized shopping lists, and real-time store layout updates(A first semester project)
+Your smart shopping companion for finding the optimal path in the grocery store. Save time and energy with efficient navigation, organized shopping lists, and real-time store layout updates
+(A first semester project)
 
 
 
@@ -30,13 +31,9 @@ The program uses a graph-based approach, including algorithms like Kruskal's alg
 - Clone this repository to your local machine.
 - Compile and run the code in your preferred C compiler.
 
-## Contributing
 
-Contributions and improvements to this project are welcome. If you have ideas to enhance this project, please feel free to contribute.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 ARHAM HAROON

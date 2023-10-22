@@ -31,6 +31,12 @@ The program uses a graph-based approach, including algorithms like Kruskal's alg
 - Clone this repository to your local machine.
 - Compile and run the code in your preferred C compiler.
 
+ARHAM HAROON
+
+NATIONAL UNIVERISTY OF SCIENCES AND TECHNOLOGY
+
+
+
 
 
 
